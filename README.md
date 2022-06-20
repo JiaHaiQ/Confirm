@@ -19,4 +19,3 @@
  * @example ts按需引入类型注解 import { ConfirmParamsInstance, ConfirmFuncInstance, CommonConfirmPropsInstance } from '@/components/CommonConfirm'
  *
  * @example 使用函数组件 Confirm('是否删除', '是否要删除？',{confirmButtonText:'删除',type:'warning'}).then(() => {}).catch(() => {})
- *
